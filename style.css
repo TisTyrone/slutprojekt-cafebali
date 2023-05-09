@@ -1,0 +1,11 @@
+.header {
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+
+a {
+ color: whitesmoke;
+}
